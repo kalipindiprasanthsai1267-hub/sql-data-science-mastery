@@ -248,11 +248,11 @@ sql-data-science-mastery/
 │   ├── shipments.csv
 │   └── stores.csv
 │
-├── queries/
+├── sql-practice/
 │   ├── phase-01-foundations/
 │   ├── phase-02-aggregations/
 │   ├── phase-03-joins/
-│   ├── phase-04-subqueries/
+│   ├── phase-04-subsql-practice/
 │   ├── phase-05-window-functions/
 │   ├── phase-06-ctes/
 │   ├── phase-07-case-when/
@@ -271,7 +271,7 @@ sql-data-science-mastery/
 2. Create or select the `CO` database.
 3. Run `database/schema.sql` to create the database tables.
 4. Run `database/data.sql` to load the sample data.
-5. Open any SQL file from the `queries/` directory.
+5. Open any SQL file from the `sql-practice/` directory.
 6. Execute the queries in MySQL Workbench.
 
 ## Tools
